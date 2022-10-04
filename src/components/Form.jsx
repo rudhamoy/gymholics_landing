@@ -66,7 +66,7 @@ const Form = () => {
                      <option value="Others">Others</option>
                  </select>
              </div>
-             <button onClick={submitHandler} className="w-full p-2 text-white bg-cyan-500 rounded-sm my-2">Get Offers</button>
+             <button onClick={submitHandler} className="w-full p-2 text-white bg-cyan-500 rounded-sm my-2">Submit and Get Offers</button>
          </form>
              )
            }
