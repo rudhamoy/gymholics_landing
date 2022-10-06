@@ -3,7 +3,7 @@ import React from 'react'
 const Intro = () => {
   return (
     <div className="heading p-3">
-      <p className="text-xl font-semibold my-6 uppercase">You can actually reach your GOAL within <span className="text-cyan-600">80 days</span> or less!</p>
+      <p className="text-xl font-semibold my-6 uppercase">You can actually reach your GOAL within <span className="text-cyan-600">70 days</span> or less!</p>
         <p className="p-2 border rounded-md shadow-md"><span className="font-semibold text-xl">Gymholics</span> is a personal trainer & instructor focusing on customized and flexible gym programs for your goals and needs, whether that's weight loss, muscle building or just general fitness.</p>
         <br />
         <p className="p-2 border rounded-md shadow-md"> {" "} {" "} {" "} {" "} We offer several types of packages to suit all budgets, for both women and men who seek for a better and healthier lifestyle. Our goal is to help you achieve your fitness goals easily by customizing your training plan with the best suitable gym regimen.</p>
