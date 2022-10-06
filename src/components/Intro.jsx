@@ -3,7 +3,8 @@ import React from 'react'
 const Intro = () => {
   return (
     <div className="heading p-3">
-      <p className="text-xl font-semibold my-6 uppercase text-gray-600">You can actually reach your GOAL in <span className="text-orange-600">70 days</span> or less!</p>
+      <h1 className="text-2xl font-semibold uppercase text-gray-600">Do you know ?</h1>
+      <p className="text-base font-semibold mb-5 uppercase text-gray-600">You can actually reach your GOAL in <br/><span className="text-orange-600 text-2xl">70 days</span> or less!</p>
       <p className="p-2 border rounded-md shadow-md"><span className="font-semibold text-xl">Gymholics</span> is a personal trainer & instructor focusing on customized and flexible gym programs for your goals and needs, whether that's weight loss, muscle building or just general fitness.</p>
       <br />
       <h1 className="text-xl font-semibold my-6 uppercase text-gray-600">Why Gymholcis is best for you ?</h1>
@@ -15,9 +16,9 @@ const Intro = () => {
       </ul>
       <br />
       <br />
-      <p className="p-2 border rounded-md shadow-md ">How would you like to become more motivated?</p>
+      <p className=" ">How would you like to become more motivated?</p>
       <br />
-      <p className="font-semibold">Fill up the form below and get up to <span className="text-2xl text-orange-600">40%</span> discounts/offers.</p>
+      <p className="font-semibold p-2 border rounded-md shadow-md">Fill up the form below and get up to <span className="text-2xl text-orange-600">40%</span> discounts/offers.</p>
     </div>
   )
 }
