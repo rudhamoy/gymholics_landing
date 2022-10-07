@@ -12,7 +12,7 @@ const HeroSection = () => {
                 </div>
                 <img src="tinywow_gymholics3_50.png" alt="" className="h-[460px] sm:h-[600px] absolute left-24 sm:left-[50%] dropShadow" />
                 <div className="rounded-md bg-white p-3 sm:p-4 shadow-md absolute left-6 sm:left-60 top-16 heading ">
-                    <p className="font-semibold">Offers upto <br /><span className="text-3xl font-bold text-yellow-500">40%</span></p>
+                    <p className="font-semibold">Get Offers <br />upto <span className="text-3xl font-bold text-yellow-500">40%</span></p>
                 </div>
             </div>
         </div>
