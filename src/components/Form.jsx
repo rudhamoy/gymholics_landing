@@ -41,7 +41,7 @@ const Form = () => {
            ) : 
              loading === true ? (
                 <div>
-                    <p>Loading......</p>
+                    <p className="text-xl text-cyan-500 text-center">Please wait......</p>
                 </div>
              ) : (
                 <form className='border p-3 rounded-md'>
